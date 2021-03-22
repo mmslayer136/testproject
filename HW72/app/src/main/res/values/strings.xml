@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW7</string>
+    <string name="title_activity_weather_display">WEatherDisplay</string>
+
+    <string name="hello_world">Hello World</string>
+    <string name="API_KEY">61f65b37afd4806851872c9fe3f4b7e2</string>
+    <string name="WEATHER_URL">https://api.openweathermap.org/data/2.5/weather?q=QUERY_REPLACE&amp;appid=API_KEY_REPLACE&amp;units=imperial</string>
+</resources>

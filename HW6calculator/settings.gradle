@@ -1,0 +1,2 @@
+rootProject.name='HW6 calculator'
+include ':app'

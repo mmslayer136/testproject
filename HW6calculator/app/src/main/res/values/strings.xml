@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW6 calculator</string>
+    <string-array name="numbers">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Division</item>
+    </string-array>
+</resources>

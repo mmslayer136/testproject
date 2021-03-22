@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Maaz Malik HW6</string>
+    <string name="Result"> Result </string>
+    <string name="operand1">Operand 1</string>
+    <string name="operand2">Operand 2</string>
+    <string name="Equals">=</string>
+    <string-array name="operators_array">
+        <item>Select Operator</item>
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Divide</item>
+        <item>Multiply</item>
+    </string-array>
+</resources>
